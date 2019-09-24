@@ -1,0 +1,3 @@
+Take a piece of fruit from the "apples and oranges" crate. 
+If it's an apple then you know that is the "apples" crate since ALL THE CRATES ARE LABELED INCORRECTLY.
+This means the crate marked "apples" must be "oranges" and the crate marked "oranges" must be "apples and oranges".
